@@ -1,0 +1,61 @@
+{
+ "A": [
+  "R2_721d2638-65b7-409e-8714-31d2d495e08e_8",
+  "R2_23b59cb5-3fdc-4df4-94ff-69bd95531d76_7",
+  "R2_08b7a759-9d6c-4322-9364-dd6cda968dea_9",
+  "R2_2d03bf05-35b9-44f0-8c5e-0597def2da30_7",
+  "R2_c1e7be4b-4485-4aaa-9a39-c2a2a77afb96_8",
+  "R2_6bfaaa60-38f5-4041-b4d9-fd86f7a25962_2",
+  "R2_052dcb42-339e-40fe-92b5-bf07f3f86a41_9",
+  "R2_c2e7c67c-24fb-496c-908c-03598fae8dd1_5",
+  "R2_89d925f7-e197-40f6-acc8-91217f44ec8f_17",
+  "R2_68a7186d-cee5-44be-a64b-6d785f2abf43_9",
+  "R2_8a3d7a46-5e17-404f-945d-b1cb79565b9b_8",
+  "R2_cadb4727-0606-4d24-a5d3-7dd3f5496458_2",
+  "R2_106959d3-5624-48cc-a703-df6120db42d1_4"
+ ],
+ "B": [
+  "R3_4dccf966-464d-4a85-a3d5-d7a4ca19f12e",
+  "R3_6b05c5bb-dbd5-41a2-97a7-f2c771427fbb",
+  "R3_7511135b-af18-40a5-876d-7092f72ed5c2",
+  "R3_53077f1c-803b-4fa5-a78b-79ae364e0b58",
+  "R1_19250b7d-2f8e-469b-8514-a30c93823173",
+  "R1_0041b110-4823-40d0-b350-c087d9f8f9b7",
+  "RC_3e03966d-5635-4ffe-a594-629852ee2c20",
+  "RC_b8b745d9-a3f0-4ace-9048-5562759a6c00",
+  "RC_1bbea971-0a47-4f7f-a9c2-7a7946b9811b",
+  "RC_36759421-eafe-4842-b064-b642b7e0bd52",
+  "RC_bbe487e2-98aa-4d86-abcf-be2e0635dcc9",
+  "RC_0a1d35ea-7d03-4175-a471-f78d947c3e61"
+ ],
+ "P": [
+  "CFE_72e58e22-aa8b-4807-b708-8ea689bb5cc2",
+  "CFE_cd216666-63d7-418a-9bff-76e73436be45",
+  "CFE_cfc9a7cf-386e-4f49-a87c-b23f8554a8ce",
+  "CFE_3e03966d-5635-4ffe-a594-629852ee2c20",
+  "CFE_c7f7f046-65b9-453b-803e-a9b240cd1f49",
+  "CFE_164e2de8-3038-4175-bb6c-c89e345b22d0",
+  "CFE_53086148-3e16-4233-a684-3945bc8c7a4b",
+  "CFE_6a9f5903-064b-4c63-bb4b-c97fd378b279",
+  "CFE_9136439a-78e1-4b8f-9055-ebe46bb4c8f9",
+  "CFE_a0682754-d4db-42b7-bffe-b19288d1c717"
+ ],
+ "focus_forbidden": [
+  "R2_cadb4727-0606-4d24-a5d3-7dd3f5496458_2",
+  "R1_0041b110-4823-40d0-b350-c087d9f8f9b7"
+ ],
+ "P_before_audit": [
+  "CFE_d1adfe67-7f69-43cc-a0e3-a42964fb9003",
+  "CFE_72e58e22-aa8b-4807-b708-8ea689bb5cc2",
+  "CFE_3e03966d-5635-4ffe-a594-629852ee2c20",
+  "CFE_d53d7cad-b546-470c-bc3e-2862d00fcf19",
+  "CFE_b45607a5-236d-4684-9afb-14145e0b73dd",
+  "CFE_b8b745d9-a3f0-4ace-9048-5562759a6c00",
+  "CFE_c7f7f046-65b9-453b-803e-a9b240cd1f49",
+  "CFE_6a9f5903-064b-4c63-bb4b-c97fd378b279",
+  "CFE_8df3b2b9-7aff-4350-9df6-c3d7764f9620",
+  "CFE_9136439a-78e1-4b8f-9055-ebe46bb4c8f9",
+  "CFE_c7cb575d-14bc-47ca-a1a8-e61370fd6fab",
+  "CFE_d385e1b9-ad21-4f63-a2f4-e1e859a8d226"
+ ]
+}

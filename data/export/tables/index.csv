@@ -1,0 +1,11 @@
+﻿file,title
+01_cells.csv,violation and accuracy by model, setting and relation
+02_violation_vs_chance.csv,S0 violation against random choice, overall and among wrong choices (Poisson-binomial z, Holm)
+05_stability.csv,three identical S0 runs on the jitter subset: decision changes and violation persistence
+03_mitigation.csv,S1 / S2 / P1 / P2 against S0 per relation (paired McNemar), with accuracy and no-action rates on the same probes
+07_oracle_vs_panel_r1.csv,oracle validity against the three-model panel (r1)
+08_panel_votes_r1.csv,the judged sample (r1): one row per decision with each judge's verdict and the start of its answer
+07_oracle_vs_panel_r2.csv,oracle validity against the three-model panel (r2)
+08_panel_votes_r2.csv,the judged sample (r2): one row per decision with each judge's verdict and the start of its answer
+04_paraphrase.csv,paraphrase consistency (R4)
+06_ours_vs_baselines.csv,CV against S0, SC and S2 pooled over R1-R3 (paired McNemar, Holm), accuracy and commit rate on RC probes

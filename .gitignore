@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+analysis/tables/
+analysis/figs/
+analysis/figures/out/
+analysis/figures/design/*.svg
+analysis/figures/design/*.pdf
+analysis/figures/design/*_preview.png
+analysis/supplement/data/
+analysis/supplement/figs/
+analysis/supplement/supp_data.json
+analysis/supplement/supplementary.*
+!analysis/supplement/supplementary.tex
+*.aux
+*.log
+*.out

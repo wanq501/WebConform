@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use WebConform, please cite the paper."
+title: "WebConform: Decision-Level Conformance Testing of Multimodal Web Agents Against Operation Semantics"
+authors:
+  - family-names: Wan
+    given-names: Qian
+  - family-names: Huang
+    given-names: Ping
+  - family-names: Wan
+    given-names: Zhijun
+  - family-names: Zhao
+    given-names: Junming
+year: 2026
+repository-code: "https://github.com/wanq501/WebConform"
+license: MIT
